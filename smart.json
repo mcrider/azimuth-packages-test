@@ -1,0 +1,14 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master"
+  },
+  "packages": {
+     "azimuth-views-foundation": {
+      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-views-foundation"
+    },
+    "azimuth-core": {
+      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-core"
+    }
+  }
+}
