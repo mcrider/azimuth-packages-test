@@ -5,16 +5,16 @@
   },
   "packages": {
     "azimuth-core": {
-      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-core"
+      "path": "../azimuth-packages-test/packages/azimuth-core"
     },
     "azimuth-views-bootstrap": {
-      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-views-bootstrap"
+      "path": "../azimuth-packages-test/packages/azimuth-views-bootstrap"
     },
     "azimuth-views-foundation": {
-      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-views-foundation"
+      "path": "../azimuth-packages-test/packages/azimuth-views-foundation"
     },
     "azimuth-theme-bootstrap-flatBlue": {
-      "path": "/Users/mcrider/Sites/azimuth-packages-test/packages/azimuth-theme-bootstrap-flatBlue"
+      "path": "../azimuth-packages-test/packages/azimuth-theme-bootstrap-flatBlue"
     }
   }
 }
