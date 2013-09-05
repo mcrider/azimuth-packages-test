@@ -1,7 +1,4 @@
-meteor.sh
-
-
-.meteor/packages
+.meteor/packages/*
 
 smart.lock
 
